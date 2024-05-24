@@ -1,0 +1,12 @@
+Demonstration 2 (Overview): Configuring Cloud Credentials
+
+Estimated time for completion: 5-10 minutes
+Activities to be completed:
+	•	Watch as Instructor explains steps to configure Cloud Credentials
+	•	View how F5XC encrypts Blindfold information   
+Lab Scenario
+
+There are no student actions required in this "lab" as it is an instructor demonstration of a few features of configuring Cloud Credentials. Students can perform their own Blindfolding (step 3), but otherwise there are no actions for the students except to take notes.
+
+This training class uses AWS, but the steps for configuring cloud credentials are similar for other supported cloud providers. Regardless of cloud provider, F5XC allows the blindfolding of secrets, which encrypts secrets such that not only are they not retrievable after blindfolding, but F5XC can not see the original secret value either.
+
